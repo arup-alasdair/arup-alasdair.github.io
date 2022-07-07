@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" apprev="18007" appversion="6.1.10">
+  <panorama id="node1">
+    <input height="3000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" width="3000" overlap="1" levelingroll="0">
+      <level height="3000" preload="0" width="3000" predecode="0"/>
+      <level height="1500" preload="0" width="1500" predecode="0"/>
+      <level height="750" preload="0" width="750" predecode="0"/>
+      <level height="375" preload="1" width="375" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-146.44" fov="63.91" tilt="-12.89" projection="4"/>
+      <flyin pan="-147.44" fov="63.91" tilt="-12.59" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fov="120" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata author="" longitude="" customnodeid="" source="" comment="" datetime="" info="" nodeid="node1" title="" description="" copyright="" tags="Desktop" latitude="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" borderalpha="1" enabled="1" background="1" bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" wordwrap="1" backgroundalpha="1" borderradius="1"/>
+      <polystyle handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" type="crossdissolve" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextfullscreen="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0" speedwheel="1" hideabout="0" rubberband="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="5081" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" width="5081" overlap="1" levelingroll="0">
+      <level height="5081" preload="0" width="5081" predecode="0"/>
+      <level height="2540" preload="0" width="2540" predecode="0"/>
+      <level height="1270" preload="0" width="1270" predecode="0"/>
+      <level height="635" preload="0" width="635" predecode="0"/>
+      <level height="317" preload="1" width="317" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="44.01" fov="63.91" tilt="-2.61" projection="4"/>
+      <flyin pan="25.35" fov="63.91" tilt="-3.59" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fov="120" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata author="" longitude="-4.294199" customnodeid="" source="" comment="" datetime="23/03/2021 14:04" info="" nodeid="node2" title="" description="" copyright="" tags="Desktop" latitude="55.870962" altitude="86.75" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" textalpha="1" textcolor="0x000000" borderalpha="1" enabled="1" background="1" bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" wordwrap="1" backgroundalpha="1" borderradius="1"/>
+      <polystyle handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-300.81" tilt="3.16" skinid="ht_info" title="Research Hub" description="First building to open on the western site housing research laboratories" id="Point01" url=""/>
+      <hotspot target="" pan="-236.65" tilt="-1.62" skinid="ht_info" title="Adam Smith Buisness Cshool" description="Construction due to commence in June 2021 after a 9 month Covid delay - Structural and MEP design by Arup" id="Point02" url=""/>
+      <hotspot target="" pan="-236.02" tilt="-19.13" skinid="ht_info" title="Rain Gardens" description="SUDS feature to provide one level of treatment before discharge to the reiver Kelvin" id="Point03" url=""/>
+      <hotspot target="" pan="-331.09" tilt="5.51" skinid="ht_info" title="Institute of Health and Wellbeing" description="" id="Point04" url=""/>
+      <hotspot target="" pan="-238.13" tilt="-6.78" skinid="ht_info" title="Collage of Arts" description="Arup undertook Structural and MEP design to Stage 3 before building was put on hold" id="Point05" url=""/>
+      <hotspot target="" pan="-7.98" tilt="-5.87" skinid="ht_info" title="School of Engineering" description="Arup undertook Structural and MEP design to Stage 3 before building was put on hold" id="Point06" url=""/>
+      <hotspot target="" pan="-45.81" tilt="-4.75" skinid="ht_info" title="HV Switchroom" description="Arup Infrastructure led design of HV and LV infrastructure to support the site. construction about to commence" id="Point07" url=""/>
+      <hotspot target="" pan="-30.05" tilt="-30.46" skinid="ht_info" title="Tree Pit Installation" description="GreenBlue tree pit system - chosen due to adjacency of internal roads" id="Point08" url=""/>
+      <hotspot target="" pan="-318.61" tilt="-5.05" skinid="ht_info" title="University Square" description="Large open plaza which will ultimately be bounded by educational and research buildings. Two large SUDS storage tanks beneath this area collect surface water from across the site and slowly discharge to the rain garden." id="Point09" url=""/>
+      <hotspot target="" pan="-351.67" tilt="4.8" skinid="ht_info" title="Maths Modular Building" description="Temporary teaching space " id="Point10" url=""/>
+      <hotspot target="" pan="-13.67" tilt="-0.51" skinid="ht_info" title="Multiplex Site offices" description="Housing meeting rooms, office space and welfare facilities for the Principle contrator and the numerous sub-contrators" id="Point11" url=""/>
+      <hotspot target="" pan="-323.87" tilt="3.81" skinid="ht_info" title="Byres Road" description="" id="Point12" url=""/>
+      <hotspot target="" pan="-217.27" tilt="-0.13" skinid="ht_info" title="Dumbarton Road" description="" id="Point13" url=""/>
+      <hotspot target="" pan="-132.59" tilt="-2.3" skinid="ht_info" title="Nothing to see here" description="nope" id="Point14" url=""/>
+      <hotspot target="" pan="-13.67" tilt="6.78" skinid="ht_info" title="Boyd Orr" description="" id="Point15" url=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" type="crossdissolve" zoomafteroutfov="20" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextfullscreen="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0" speedwheel="1" hideabout="0" rubberband="0" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" longitude="" customnodeid="" source="" comment="" datetime="" info="" nodeid="master" title="" description="" copyright="" tags="" latitude="" heading="0"/>
+  </masternode>
+</tour>
