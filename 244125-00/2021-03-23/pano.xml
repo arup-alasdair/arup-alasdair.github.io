@@ -45,7 +45,7 @@
       <polystyle handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot target="" pan="-300.81" tilt="3.16" skinid="ht_info" title="Research Hub" description="First building to open on the western site housing research laboratories" id="Point01" url=""/>
       <hotspot target="" pan="-236.65" tilt="-1.62" skinid="ht_info" title="Adam Smith Buisness Cshool" description="Construction due to commence in June 2021 after a 9 month Covid delay - Structural and MEP design by Arup" id="Point02" url=""/>
-      <hotspot target="" pan="-236.02" tilt="-19.13" skinid="ht_info" title="Rain Gardens" description="SUDS feature to provide one level of treatment before discharge to the reiver Kelvin" id="Point03" url=""/>
+      <hotspot target="" pan="-236.02" tilt="-19.13" skinid="ht_info" title="Rain Gardens" description="SUDS feature to provide one level of treatment before discharge to the river Kelvin" id="Point03" url=""/>
       <hotspot target="" pan="-331.09" tilt="5.51" skinid="ht_info" title="Institute of Health and Wellbeing" description="" id="Point04" url=""/>
       <hotspot target="" pan="-238.13" tilt="-6.78" skinid="ht_info" title="Collage of Arts" description="Arup undertook Structural and MEP design to Stage 3 before building was put on hold" id="Point05" url=""/>
       <hotspot target="" pan="-7.98" tilt="-5.87" skinid="ht_info" title="School of Engineering" description="Arup undertook Structural and MEP design to Stage 3 before building was put on hold" id="Point06" url=""/>
