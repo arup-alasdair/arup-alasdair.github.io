@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="18007" appversion="6.1.10">
+  <panorama id="node1">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.206316" customnodeid="" datetime="17/04/2023 14:03" source="" comment="" author="" title="DCIM\100GOPRO\GS__1399.JPG" copyright="" longitude="-4.517938" info="" nodeid="node1" heading="0" description="" altitude="276.18" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.206309" customnodeid="" datetime="17/04/2023 14:03" source="" comment="" author="" title="DCIM\100GOPRO\GS__1400.JPG" copyright="" longitude="-4.517934" info="" nodeid="node2" heading="0" description="" altitude="276.15" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.208004" customnodeid="" datetime="17/04/2023 14:08" source="" comment="" author="" title="DCIM\100GOPRO\GS__1401.JPG" copyright="" longitude="-4.515280" info="" nodeid="node3" heading="0" description="" altitude="274.11" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.210923" customnodeid="" datetime="17/04/2023 14:15" source="" comment="" author="" title="DCIM\100GOPRO\GS__1402.JPG" copyright="" longitude="-4.513852" info="" nodeid="node4" heading="0" description="" altitude="255.75" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.210937" customnodeid="" datetime="17/04/2023 14:16" source="" comment="" author="" title="DCIM\100GOPRO\GS__1403.JPG" copyright="" longitude="-4.513874" info="" nodeid="node5" heading="0" description="" altitude="257.30" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.211100" customnodeid="" datetime="17/04/2023 14:21" source="" comment="" author="" title="DCIM\100GOPRO\GS__1404.JPG" copyright="" longitude="-4.518745" info="" nodeid="node6" heading="0" description="" altitude="248.29" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.211101" customnodeid="" datetime="17/04/2023 14:21" source="" comment="" author="" title="DCIM\100GOPRO\GS__1405.JPG" copyright="" longitude="-4.518744" info="" nodeid="node7" heading="0" description="" altitude="249.11" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.213041" customnodeid="" datetime="17/04/2023 14:30" source="" comment="" author="" title="DCIM\100GOPRO\GS__1406.JPG" copyright="" longitude="-4.518527" info="" nodeid="node8" heading="0" description="" altitude="241.24" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.212282" customnodeid="" datetime="17/04/2023 14:33" source="" comment="" author="" title="DCIM\100GOPRO\GS__1407.JPG" copyright="" longitude="-4.521606" info="" nodeid="node9" heading="0" description="" altitude="242.26" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.212277" customnodeid="" datetime="17/04/2023 14:33" source="" comment="" author="" title="DCIM\100GOPRO\GS__1408.JPG" copyright="" longitude="-4.521608" info="" nodeid="node10" heading="0" description="" altitude="242.32" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.212806" customnodeid="" datetime="17/04/2023 14:36" source="" comment="" author="" title="DCIM\100GOPRO\GS__1409.JPG" copyright="" longitude="-4.523475" info="" nodeid="node11" heading="0" description="" altitude="247.15" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.212806" customnodeid="" datetime="17/04/2023 14:37" source="" comment="" author="" title="DCIM\100GOPRO\GS__1410.JPG" copyright="" longitude="-4.523477" info="" nodeid="node12" heading="0" description="" altitude="246.88" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.213546" customnodeid="" datetime="17/04/2023 14:43" source="" comment="" author="" title="DCIM\100GOPRO\GS__1411.JPG" copyright="" longitude="-4.526713" info="" nodeid="node13" heading="0" description="" altitude="235.37" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.214651" customnodeid="" datetime="17/04/2023 15:32" source="" comment="" author="" title="DCIM\100GOPRO\GS__1415.JPG" copyright="" longitude="-4.543625" info="" nodeid="node14" heading="0" description="" altitude="270.02" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.214649" customnodeid="" datetime="17/04/2023 15:32" source="" comment="" author="" title="DCIM\100GOPRO\GS__1416.JPG" copyright="" longitude="-4.543623" info="" nodeid="node15" heading="0" description="" altitude="269.66" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.215718" customnodeid="" datetime="17/04/2023 15:37" source="" comment="" author="" title="DCIM\100GOPRO\GS__1418.JPG" copyright="" longitude="-4.546038" info="" nodeid="node16" heading="0" description="" altitude="271.62" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.215713" customnodeid="" datetime="17/04/2023 15:37" source="" comment="" author="" title="DCIM\100GOPRO\GS__1419.JPG" copyright="" longitude="-4.546030" info="" nodeid="node17" heading="0" description="" altitude="271.89" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.214899" customnodeid="" datetime="17/04/2023 15:44" source="" comment="" author="" title="DCIM\100GOPRO\GS__1420.JPG" copyright="" longitude="-4.544212" info="" nodeid="node18" heading="0" description="" altitude="270.99" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.214907" customnodeid="" datetime="17/04/2023 15:45" source="" comment="" author="" title="DCIM\100GOPRO\GS__1421.JPG" copyright="" longitude="-4.544213" info="" nodeid="node19" heading="0" description="" altitude="270.09" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.212932" customnodeid="" datetime="17/04/2023 15:54" source="" comment="" author="" title="DCIM\100GOPRO\GS__1422.JPG" copyright="" longitude="-4.546202" info="" nodeid="node20" heading="0" description="" altitude="255.52" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.212930" customnodeid="" datetime="17/04/2023 15:54" source="" comment="" author="" title="DCIM\100GOPRO\GS__1423.JPG" copyright="" longitude="-4.546183" info="" nodeid="node21" heading="0" description="" altitude="255.62" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.200380" customnodeid="" datetime="18/04/2023 09:24" source="" comment="" author="" title="DCIM\100GOPRO\GS__1424.JPG" copyright="" longitude="-4.511640" info="" nodeid="node22" heading="0" description="" altitude="270.29" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.200389" customnodeid="" datetime="18/04/2023 09:24" source="" comment="" author="" title="DCIM\100GOPRO\GS__1425.JPG" copyright="" longitude="-4.511647" info="" nodeid="node23" heading="0" description="" altitude="270.87" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.198956" customnodeid="" datetime="18/04/2023 09:28" source="" comment="" author="" title="DCIM\100GOPRO\GS__1426.JPG" copyright="" longitude="-4.513996" info="" nodeid="node24" heading="0" description="" altitude="287.45" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.198980" customnodeid="" datetime="18/04/2023 09:28" source="" comment="" author="" title="DCIM\100GOPRO\GS__1427.JPG" copyright="" longitude="-4.514064" info="" nodeid="node25" heading="0" description="" altitude="281.60" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.198059" customnodeid="" datetime="18/04/2023 09:39" source="" comment="" author="" title="DCIM\100GOPRO\GS__1428.JPG" copyright="" longitude="-4.520461" info="" nodeid="node26" heading="0" description="" altitude="325.47" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.198056" customnodeid="" datetime="18/04/2023 09:39" source="" comment="" author="" title="DCIM\100GOPRO\GS__1429.JPG" copyright="" longitude="-4.520469" info="" nodeid="node27" heading="0" description="" altitude="324.28" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.198954" customnodeid="" datetime="18/04/2023 09:44" source="" comment="" author="" title="DCIM\100GOPRO\GS__1430.JPG" copyright="" longitude="-4.524346" info="" nodeid="node28" heading="0" description="" altitude="316.21" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.198948" customnodeid="" datetime="18/04/2023 09:45" source="" comment="" author="" title="DCIM\100GOPRO\GS__1431.JPG" copyright="" longitude="-4.524351" info="" nodeid="node29" heading="0" description="" altitude="315.88" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.198129" customnodeid="" datetime="18/04/2023 09:52" source="" comment="" author="" title="DCIM\100GOPRO\GS__1432.JPG" copyright="" longitude="-4.527204" info="" nodeid="node30" heading="0" description="" altitude="301.73" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node31">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.198132" customnodeid="" datetime="18/04/2023 09:53" source="" comment="" author="" title="DCIM\100GOPRO\GS__1433.JPG" copyright="" longitude="-4.527197" info="" nodeid="node31" heading="0" description="" altitude="302.24" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.199106" customnodeid="" datetime="18/04/2023 09:58" source="" comment="" author="" title="DCIM\100GOPRO\GS__1434.JPG" copyright="" longitude="-4.529214" info="" nodeid="node32" heading="0" description="" altitude="290.57" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.199095" customnodeid="" datetime="18/04/2023 09:58" source="" comment="" author="" title="DCIM\100GOPRO\GS__1435.JPG" copyright="" longitude="-4.529194" info="" nodeid="node33" heading="0" description="" altitude="290.46" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.199710" customnodeid="" datetime="18/04/2023 10:04" source="" comment="" author="" title="DCIM\100GOPRO\GS__1436.JPG" copyright="" longitude="-4.530288" info="" nodeid="node34" heading="0" description="" altitude="276.51" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.199713" customnodeid="" datetime="18/04/2023 10:04" source="" comment="" author="" title="DCIM\100GOPRO\GS__1437.JPG" copyright="" longitude="-4.530293" info="" nodeid="node35" heading="0" description="" altitude="277.05" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.201688" customnodeid="" datetime="18/04/2023 10:15" source="" comment="" author="" title="DCIM\100GOPRO\GS__1438.JPG" copyright="" longitude="-4.533943" info="" nodeid="node36" heading="0" description="" altitude="258.70" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.201697" customnodeid="" datetime="18/04/2023 10:15" source="" comment="" author="" title="DCIM\100GOPRO\GS__1439.JPG" copyright="" longitude="-4.533934" info="" nodeid="node37" heading="0" description="" altitude="259.51" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node38">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.201667" customnodeid="" datetime="18/04/2023 10:18" source="" comment="" author="" title="DCIM\100GOPRO\GS__1440.JPG" copyright="" longitude="-4.534437" info="" nodeid="node38" heading="0" description="" altitude="257.64" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node39">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.201662" customnodeid="" datetime="18/04/2023 10:19" source="" comment="" author="" title="DCIM\100GOPRO\GS__1441.JPG" copyright="" longitude="-4.534429" info="" nodeid="node39" heading="0" description="" altitude="255.99" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node40">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.201356" customnodeid="" datetime="18/04/2023 10:29" source="" comment="" author="" title="DCIM\100GOPRO\GS__1442.JPG" copyright="" longitude="-4.536738" info="" nodeid="node40" heading="0" description="" altitude="260.68" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node41">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.201352" customnodeid="" datetime="18/04/2023 10:29" source="" comment="" author="" title="DCIM\100GOPRO\GS__1443.JPG" copyright="" longitude="-4.536734" info="" nodeid="node41" heading="0" description="" altitude="260.24" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node42">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.202439" customnodeid="" datetime="18/04/2023 10:34" source="" comment="" author="" title="DCIM\100GOPRO\GS__1444.JPG" copyright="" longitude="-4.536781" info="" nodeid="node42" heading="0" description="" altitude="264.89" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node43">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.202435" customnodeid="" datetime="18/04/2023 10:34" source="" comment="" author="" title="DCIM\100GOPRO\GS__1445.JPG" copyright="" longitude="-4.536783" info="" nodeid="node43" heading="0" description="" altitude="265.07" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node44">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.202449" customnodeid="" datetime="18/04/2023 10:42" source="" comment="" author="" title="DCIM\100GOPRO\GS__1446.JPG" copyright="" longitude="-4.537780" info="" nodeid="node44" heading="0" description="" altitude="261.28" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node45">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.202444" customnodeid="" datetime="18/04/2023 10:42" source="" comment="" author="" title="DCIM\100GOPRO\GS__1447.JPG" copyright="" longitude="-4.537778" info="" nodeid="node45" heading="0" description="" altitude="261.34" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node46">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.203068" customnodeid="" datetime="18/04/2023 10:51" source="" comment="" author="" title="DCIM\100GOPRO\GS__1448.JPG" copyright="" longitude="-4.540084" info="" nodeid="node46" heading="0" description="" altitude="255.21" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node47">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.203071" customnodeid="" datetime="18/04/2023 10:52" source="" comment="" author="" title="DCIM\100GOPRO\GS__1449.JPG" copyright="" longitude="-4.540076" info="" nodeid="node47" heading="0" description="" altitude="254.66" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node48">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.202851" customnodeid="" datetime="18/04/2023 10:56" source="" comment="" author="" title="DCIM\100GOPRO\GS__1450.JPG" copyright="" longitude="-4.542200" info="" nodeid="node48" heading="0" description="" altitude="275.48" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node49">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.202849" customnodeid="" datetime="18/04/2023 10:56" source="" comment="" author="" title="DCIM\100GOPRO\GS__1451.JPG" copyright="" longitude="-4.542201" info="" nodeid="node49" heading="0" description="" altitude="275.55" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node50">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.209201" customnodeid="" datetime="18/04/2023 11:23" source="" comment="" author="" title="DCIM\100GOPRO\GS__1452.JPG" copyright="" longitude="-4.555952" info="" nodeid="node50" heading="0" description="" altitude="209.19" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node51">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.209205" customnodeid="" datetime="18/04/2023 11:23" source="" comment="" author="" title="DCIM\100GOPRO\GS__1453.JPG" copyright="" longitude="-4.555945" info="" nodeid="node51" heading="0" description="" altitude="208.98" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node52">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.209149" customnodeid="" datetime="18/04/2023 11:30" source="" comment="" author="" title="DCIM\100GOPRO\GS__1454.JPG" copyright="" longitude="-4.560409" info="" nodeid="node52" heading="0" description="" altitude="168.92" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node53">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.209146" customnodeid="" datetime="18/04/2023 11:30" source="" comment="" author="" title="DCIM\100GOPRO\GS__1455.JPG" copyright="" longitude="-4.560399" info="" nodeid="node53" heading="0" description="" altitude="169.15" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node54">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.209863" customnodeid="" datetime="18/04/2023 11:34" source="" comment="" author="" title="DCIM\100GOPRO\GS__1456.JPG" copyright="" longitude="-4.561362" info="" nodeid="node54" heading="0" description="" altitude="150.51" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node55">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.209855" customnodeid="" datetime="18/04/2023 11:34" source="" comment="" author="" title="DCIM\100GOPRO\GS__1457.JPG" copyright="" longitude="-4.561358" info="" nodeid="node55" heading="0" description="" altitude="150.25" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node56">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.210478" customnodeid="" datetime="18/04/2023 11:45" source="" comment="" author="" title="DCIM\100GOPRO\GS__1458.JPG" copyright="" longitude="-4.565999" info="" nodeid="node56" heading="0" description="" altitude="82.00" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node57">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.210486" customnodeid="" datetime="18/04/2023 11:45" source="" comment="" author="" title="DCIM\100GOPRO\GS__1459.JPG" copyright="" longitude="-4.565999" info="" nodeid="node57" heading="0" description="" altitude="81.34" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node58">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.211146" customnodeid="" datetime="18/04/2023 11:50" source="" comment="" author="" title="DCIM\100GOPRO\GS__1460.JPG" copyright="" longitude="-4.565801" info="" nodeid="node58" heading="0" description="" altitude="74.66" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node59">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.211144" customnodeid="" datetime="18/04/2023 11:50" source="" comment="" author="" title="DCIM\100GOPRO\GS__1461.JPG" copyright="" longitude="-4.565803" info="" nodeid="node59" heading="0" description="" altitude="74.86" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node60">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node60/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.211855" customnodeid="" datetime="18/04/2023 11:54" source="" comment="" author="" title="DCIM\100GOPRO\GS__1462.JPG" copyright="" longitude="-4.564767" info="" nodeid="node60" heading="0" description="" altitude="74.89" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node61">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.211849" customnodeid="" datetime="18/04/2023 11:54" source="" comment="" author="" title="DCIM\100GOPRO\GS__1463.JPG" copyright="" longitude="-4.564766" info="" nodeid="node61" heading="0" description="" altitude="74.58" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node62">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.213071" customnodeid="" datetime="18/04/2023 12:03" source="" comment="" author="" title="DCIM\100GOPRO\GS__1464.JPG" copyright="" longitude="-4.562906" info="" nodeid="node62" heading="0" description="" altitude="74.94" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node63">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node63/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.213063" customnodeid="" datetime="18/04/2023 12:04" source="" comment="" author="" title="DCIM\100GOPRO\GS__1465.JPG" copyright="" longitude="-4.562906" info="" nodeid="node63" heading="0" description="" altitude="75.22" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node64">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node64/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.213561" customnodeid="" datetime="18/04/2023 12:10" source="" comment="" author="" title="DCIM\100GOPRO\GS__1466.JPG" copyright="" longitude="-4.562299" info="" nodeid="node64" heading="0" description="" altitude="75.07" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node65">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node65/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.213557" customnodeid="" datetime="18/04/2023 12:11" source="" comment="" author="" title="DCIM\100GOPRO\GS__1467.JPG" copyright="" longitude="-4.562290" info="" nodeid="node65" heading="0" description="" altitude="75.26" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node66">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node66/cf_%c/l_%l/c_%x/tile_%y.jpg" height="676" levelbiashidpi="1.000" width="676" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="676" width="676"/>
+      <level preload="1" predecode="1" height="338" width="338"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.213260" customnodeid="" datetime="17/04/2023 14:49" source="" comment="" author="" title="DCIM\100GOPRO\GP__1412.JPG" copyright="" longitude="-4.531052" info="" nodeid="node66" heading="0" description="" altitude="232.22" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node67">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node67/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.203773" customnodeid="" datetime="17/04/2023 13:45" source="" comment="" author="" title="DCIM\100GOPRO\GS__1396.JPG" copyright="" longitude="-4.509230" info="" nodeid="node67" heading="0" description="" altitude="267.79" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node68">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node68/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.207617" customnodeid="" datetime="17/04/2023 13:55" source="" comment="" author="" title="DCIM\100GOPRO\GS__1397.JPG" copyright="" longitude="-4.513003" info="" nodeid="node68" heading="0" description="" altitude="269.57" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node69">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node69/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1440" levelbiashidpi="1.000" width="1440" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="57.207619" customnodeid="" datetime="17/04/2023 13:55" source="" comment="" author="" title="DCIM\100GOPRO\GS__1398.JPG" copyright="" longitude="-4.513001" info="" nodeid="node69" heading="0" description="" altitude="270.38" tags="Grace"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" border="1" backgroundalpha="1" background="1" borderradius="1" height="20" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" rubberband="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata latitude="" customnodeid="" datetime="" source="" comment="" author="" title="" copyright="" longitude="" info="" nodeid="master" heading="0" description="" tags=""/>
+  </masternode>
+  <map mapmaxzoom="18" mapprovider="openstreetmap" id="OpenStreetMap" title="Terrain" mapstyle="outdoors" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" type="web"/>
+</tour>
