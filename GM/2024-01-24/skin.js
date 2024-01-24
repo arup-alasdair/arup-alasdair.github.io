@@ -9453,7 +9453,7 @@ function pano2vrSkin(player,base) {
 				}
 				if ((gps.length>=2) && ((gps[0]!=0) || (gps[1]!=0))) {
 					markerLocation = L.latLng(gps[0], gps[1]);
-					var mapIcon = L.icon({iconUrl: basePath + 'images/_ggMapPin.png', iconRetinaUrl: basePath + 'images/_ggMapPin.png', iconSize : [40, 40], iconAnchor: [20, 40]});
+					var mapIcon = L.icon({iconUrl: basePath + 'images/ggMapPin.png', iconRetinaUrl: basePath + 'images/ggMapPin.png', iconSize : [40, 40], iconAnchor: [20, 40]});
 					marker = L.marker(markerLocation, {title: player.getNodeTitle(id), icon: mapIcon});
 					marker.ggId=id;
 					marker.on('click', function() {
